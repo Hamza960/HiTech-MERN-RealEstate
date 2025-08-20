@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Sunny 2BHK Apartment",
+    "description": "Great light, city view, near metro.",
+    "price": 85000,
+    "type": "rent",
+    "location": "Bengaluru - Indiranagar",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 950,
+    "amenities": [
+      "balcony",
+      "gym",
+      "parking"
+    ],
+    "images": [
+      "https://placehold.co/800x500?text=Apartment+1"
+    ],
+    "isActive": true
+  },
+  {
+    "title": "Spacious 4BHK Villa",
+    "description": "Private garden and pool.",
+    "price": 32000000,
+    "type": "sale",
+    "location": "Pune - Baner",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 3200,
+    "amenities": [
+      "pool",
+      "garden",
+      "parking"
+    ],
+    "images": [
+      "https://placehold.co/800x500?text=Villa"
+    ],
+    "isActive": true
+  }
+]
