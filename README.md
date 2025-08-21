@@ -60,7 +60,7 @@ npm run dev            # starts Vite on http://localhost:5173
 - **frontend**: `dev`, `build`, `preview`, `lint`
 
 ## Screenshots / Demo
-- Add your screenshots or screen recording links here.
+Screen recording: https://drive.google.com/file/d/1wpx44uUJrdD6yuIuILoEdYxFg_iKp2WG/view?usp=drive_link
 
 ## Assumptions & Decisions
 - No auth; all agent actions are open (as per spec).
